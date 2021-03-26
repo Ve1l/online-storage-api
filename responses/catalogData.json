@@ -2,22 +2,22 @@
   {
     "id_product": 123,
     "product_name": "Хлеб",
-    "price": 45 руб.
+    "price": 45
   },
   {
     "id_product": 456,
     "product_name": "Мышка",
-    "price": 1000 руб.
+    "price": 1000
   },
   {
     "id_product": 457,
     "product_name": "Клавиатура",
-    "price": 4560 руб.
+    "price": 4560
   },
   {
     "id_product": 458,
     "product_name": "Ноутбук",
-    "price": 200000 руб.
+    "price": 200000
   }
 ]
 ]
